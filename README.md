@@ -1,44 +1,32 @@
-## HTML PROJECT🌐
+Hi, I'm Palak! 👋
 
-# ABOUT THE PROJECT📖
+🎓 First-Year B.Tech Computer Science and Engineering Student at Lovely Professional University.
 
-This is a web development project created using HTML. It was developed in Visual Studio Code as part of my learning and academic practice.
+👩‍💻 About Me
 
-# Objectives🎯
+- 🌱 Currently learning programming and web development.
+- 💻 Interested in creating websites and applications.
+- 🧠 Enjoy logical thinking and problem-solving.
+- 🚀 Aspiring Full-Stack Developer.
+- 📚 Always excited to learn new technologies.
 
-- 📌To learn the basics of HTML.
--🧱To understand the structure of a web page.
--💻To practice creating web pages using HTML.
-- 🚀To improve web development skills.
+🛠️ Skills
 
-# Technologies Used🛠️
+- HTML
+- Python
+- Programming Fundamentals
 
-- 🌐HTML5
-- 💙Visual Studio Code
+🎯 Goals
 
-# Features✨
+- Build real-world projects.
+- Improve my coding skills.
+- Learn front-end and back-end development.
+- Become a skilled Full-Stack Developer.
 
-- 🏗️Basic webpage structure.
-- 📝Organized HTML elements.
-- 🎨Simple and user-friendly webpage design.
+📫 Connect With Me
 
-# How to Run the Project▶️
+- LinkedIn: : www.linkedin.com/in/palak-thakur-356b21432
 
-1. 📩Download or clone this repository.
-2. 📂Open the project folder.
-3. 📄Find the "index.html" file.
-4. 🌍Double-click "index.html" to open it in a web browser.
+---
 
-# Project Structure📂
-
-HTML-Project/
-├── index.html
-└── README.md
-
-# Learning Outcomes📚
-
-Through this project, I gained practical experience with HTML tags, webpage structure, and basic web development.
-
-# Project Status📌
-
-🚧In Progress
+⭐ Thanks for visiting my profile!
